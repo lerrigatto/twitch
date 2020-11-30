@@ -1,3 +1,5 @@
+# SRE live! Wireguard and SSHd - 20-11-30
+
 Today's plan:
 
 1 - Configure wireguard on my debian nas
