@@ -11,4 +11,4 @@ You can find me on [Twitch.tv](https://twitch.tv/lerrigatto)
 
 
 ## Past Lives
-* 2020-11-30 [SRE live! Wireguard and sshd](20-11-30-SRE-wireguard.md)
+* 2020-11-30 [SRE live! Wireguard and sshd](20-11-30-SRE-wireguard.md) (includes the youtube recording link!)
