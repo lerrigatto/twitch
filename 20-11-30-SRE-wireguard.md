@@ -1,12 +1,12 @@
 # SRE live! Wireguard and SSHd - 20-11-30
 
-Today's plan:
+## Today's plan:
 
-1 - Configure wireguard on my debian nas
-2 - Ensure I can access that thing from the outside
-3 - ...
+1) Configure wireguard on my debian nas
+2) Ensure I can access that thing from the outside
+3) ...
 
-Openssh server (default conf)
+## Openssh server (default conf)
 1) installing ssh on ym server
   apt install openssh-server
 2) adding my pubkey
@@ -16,7 +16,7 @@ Openssh server (default conf)
 4) Disable rootlogin, passwordauth, emptypasswords, X11forwarding
 4) restarted sshd
 
-Wireguard
+## Wireguard
 1) install wireguard apt package
 2) Create a wg0 wireguard interface
 3) Assign ipv4 subnet to that interface
@@ -30,7 +30,7 @@ Wireguard
 9) Check if client internet connection works
 
 
-TODO next:
+## TODO next:
 - Run ansible playbooks against this server
 - Configure sshd and wireguard trough ansible
 - Update dns with current public ip of server
