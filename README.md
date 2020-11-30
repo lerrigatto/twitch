@@ -4,8 +4,11 @@ You can find the calendar of my future streamings on [google calendar](https://c
 
 You can find me on [Twitch.tv](https://twitch.tv/lerrigatto)
 
+* [SRE live! TODO list](SRE-TODO.md) contains things I will do in the future on the SRE live! series. Feel free to open Issues to suggest new stuff!
+
 ## Upcoming Lives
 * 2020-12-01 [AOC day1](20-12-01-AOC-day1.md)
+
 
 ## Past Lives
 * 2020-11-30 [SRE live! Wireguard and sshd](20-11-30-SRE-wireguard.md)
