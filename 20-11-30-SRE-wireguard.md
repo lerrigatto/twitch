@@ -1,5 +1,8 @@
 # SRE live! Wireguard and SSHd - 20-11-30
 
+[![Recording of the live on youtube](https://img.youtube.com/vi/Sq5tlve--ck/0.jpg)](https://www.youtube.com/watch?v=Sq5tlve--ck)
+
+
 ## Today's plan:
 
 1) Configure wireguard on my debian nas
