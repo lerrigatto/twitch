@@ -7,7 +7,7 @@ You can find me on [Twitch.tv](https://twitch.tv/lerrigatto)
 * [SRE live! TODO list](SRE-TODO.md) contains things I will do in the future on the SRE live! series. Feel free to open Issues to suggest new stuff!
 
 ## Upcoming Lives
-* 2020-12-04 [AOC day4](20-12-04-AOC-day4.md)
+* Nothing scheduled yet
 
 ## Past Lives
 * 2020-12-03 [AOC day3](20-12-03-AOC-day3.md)
