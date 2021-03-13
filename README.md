@@ -8,10 +8,10 @@ You can find me on [Twitch.tv](https://twitch.tv/lerrigatto)
 
 ## Upcoming Lives
 * (more or less every saturday 18h-20h CET)
-* 2021-03-13 SRE live! Ansible: Fix ssh keys and deploy wireguard
-
+* 2021-03-20 SRE live! Deploy k8s (of some kind)
 
 ## Past Lives
+* 2021-03-13 SRE live! Ansible: Fix ssh keys and deploy wireguard
 * 2021-03-06 SRE live! Ansible inventories and failures (no wireguard)
 * 2021-02-27 [SRE live! Docker for elixir](21-02-27-SRE-docker.md)
 * 2020-12-03 [AOC day3](20-12-03-AOC-day3.md)
