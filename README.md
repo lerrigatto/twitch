@@ -8,7 +8,7 @@ You can find me on [Twitch.tv](https://twitch.tv/lerrigatto)
 
 ## Upcoming Lives
 * (more or less every saturday 18h-20h CET)
-* 2021-03-20 SRE live! Deploy k8s (of some kind)
+* 2021-03-20 [SRE live! Deploy k8s](21-03-20-SRE-k8s.md)
 
 ## Past Lives
 * 2021-03-13 SRE live! Ansible: Fix ssh keys and deploy wireguard
