@@ -7,7 +7,7 @@
 
 ## Diagram
 
-![CICD Diagram](https://drive.google.com/file/d/1ShTVfbfqT45XUzkioYiGgNOJ2ZOe3G7I/view?usp=sharing)
+![CICD Diagram](21-04-10-cicd.svg)
 
 ## Recap
 
