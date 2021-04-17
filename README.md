@@ -8,7 +8,7 @@ You can find me on [Twitch.tv](https://twitch.tv/lerrigatto)
 
 ## Upcoming Lives
 * (more or less every saturday 18h-20h CET)
-* 2021-04-17 [SRE live! Test (and regret) CI/CD Tools](21-04-17-cicd-test-and-regret.md)
+* 2021-04-17 [SRE live! CI/CD for python twitchbot](21-04-17-cicd-twitchbot.md)
 
 ## Past Lives
 * 2021-04-10 [SRE live! Choose a CI/CD Tool](21-04-10-cicd-pick-a-tool.md)
