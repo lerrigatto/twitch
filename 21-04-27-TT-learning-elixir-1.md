@@ -1,4 +1,4 @@
-# 21-04-27 Two Tomatoes: Learning Elixir!
+# Two Tomatoes: Learning Elixir day1!
 
 ## Today's plan
 * New format
