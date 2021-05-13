@@ -7,10 +7,11 @@ You can find me on [Twitch.tv](https://twitch.tv/lerrigatto)
 * [SRE live! TODO list](SRE-TODO.md) contains things I will do in the future on the SRE live! series. Feel free to open Issues to suggest new stuff!
 
 ## Upcoming Lives
-* 2021-05-?? Stay tuned for next SRE live! (Maybe Sunday, for sure Wednesday 14)
-* 2021-05-11 [Two Tomatoes: Learning elixir day5!](21-05-11-TT-learning-elixir-5.md)
+* 2021-05-14 Stay tuned for next SRE live! Finish fluxCD stuff. FOR REAL!
 
 ## Past Lives
+* 2021-05-13 [Two Tomatoes: Learning elixir day6!](21-05-13-TT-learning-elixir-6.md)
+* 2021-05-11 [Two Tomatoes: Learning elixir day5!](21-05-11-TT-learning-elixir-5.md)
 * 2021-05-06 [Two Tomatoes: Learning elixir day4!](21-05-06-TT-learning-elixir-4.md)
 * 2021-05-04 [Two Tomatoes: Learning elixir day3!](21-05-04-TT-learning-elixir-3.md)
 * 2021-04-30 [SRE live! CI/CD with FluxCD](21-04-30-cicd-fluxcd.md)
